@@ -1,0 +1,40 @@
+[
+    { "Id":"1" ,
+        "Livreur":"Sekai mohammed",
+        "Secteur":"Kouba" ,
+        "Rentabilité":"Oui"
+       },
+       { "Id":"2" ,
+        "Livreur":"khaldi Ibrahim",
+        "Secteur":"Rouiba" ,
+        "Rentabilité":"Oui"
+       },{ "Id":"3" ,
+        "Livreur":"Ali Khalil",
+        "Secteur":"Bab Ezzouar" ,
+        "Rentabilité":"Oui"
+       },
+       
+    { "Id":"4" ,
+        "Livreur":"Saltani Hamid",
+        "Secteur":"Chéraga" ,
+        "Rentabilité":"Non"
+       },
+       { "Id":"5" ,
+        "Livreur":"Ismail Hassani",
+        "Secteur":"Alger centre" ,
+        "Rentabilité":"Oui"
+       },{ "Id":"6" ,
+        "Livreur":"Rabeh Felissi",
+        "Secteur":"Boumerdes ville" ,
+        "Rentabilité":"Non"
+       },
+       
+    { "Id":"7" ,
+        "Livreur":"Talbi Mounir",
+        "Secteur":"Boufarik" ,
+        "Rentabilité":"Oui"
+       }
+    
+
+
+]

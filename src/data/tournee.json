@@ -1,0 +1,14 @@
+[
+    {"idTournee":"42248","date_tournee":"2021-01-10 00:00:00","hub":"1","secteur": "Bab Ezzouar","livreur": "Khaled Hamizi","performance": "0.9"},
+    {"idTournee":"42249","date_tournee":"2021-01-10 00:00:00","hub":"1","secteur": "Alger centre","livreur": "Amine Yassad","performance": "0.7"},
+    {"idTournee":"42251","date_tournee":"2021-01-10 00:00:00","hub":"1","secteur": "Rouiba","livreur": "Sami Yousfi","performance": "0.8"},
+    {"idTournee":"42252","date_tournee":"2021-01-10 00:00:00","hub":"1","secteur": "Kouba","livreur": "Mohammed Riadi","performance": "0.5"},
+
+    
+    {"idTournee":"42253","date_tournee":"2021-01-10 00:00:00","hub":"1","secteur": "Cheraga","livreur": "Ismail Hafssi","performance": "0.3"},
+    {"idTournee":"42255","date_tournee":"2021-01-10 00:00:00","hub":"1","secteur": "Boufarik","livreur": "Aymen Sadki","performance": "0.7"},
+    {"idTournee":"42257","date_tournee":"2021-01-10 00:00:00","hub":"1","secteur": "Bab Ezzouar","livreur": "Youcef Rhamouni","performance": "0.2"},
+    {"idTournee":"42258","date_tournee":"2021-01-10 00:00:00","hub":"1","secteur": "Dar Elbeida","livreur": "Ahcen Brahimi","performance": "0.1"},
+    {"idTournee":"42261","date_tournee":"2021-01-10 00:00:00","hub":"1","secteur": "Khemis Elkhachna","livreur": "Samir Nouar","performance": "0.9"},
+    {"idTournee":"42263","date_tournee":"2021-01-10 00:00:00","hub":"1","secteur": "Boudouaou","livreur": "Houssam Nail","performance": "0.9"}
+    ]
